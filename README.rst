@@ -47,16 +47,16 @@ Network Monitoring
 Service Monitoring
 ------------------
 
-Home Assistant - https://www.home-assistant.io/components/prometheus/
-Jenkins - https://wiki.jenkins.io/display/JENKINS/Prometheus+Plugin
-Prometheus - https://github.com/prometheus/blackbox_exporter
-Robophery - https://github.com/prometheus/statsd_exporter
+* Home Assistant - https://www.home-assistant.io/components/prometheus/
+* Jenkins - https://wiki.jenkins.io/display/JENKINS/Prometheus+Plugin
+* Prometheus - https://github.com/prometheus/blackbox_exporter
+* Robophery - https://github.com/prometheus/statsd_exporter
 
 
 Miscellaneous Monitoring
 ------------------------
 
-Solar Wind - https://github.com/cznewt/nasa-swpc-exporter
+* Solar Wind - https://github.com/cznewt/nasa-swpc-exporter
 
 
 Requirements
